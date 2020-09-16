@@ -1,5 +1,9 @@
 # Some Vanilla JavaScript Projects including some features like
 
+## Timer - SVG, Animations
+
+## fightMovie - Autocomplete from scratch, axios,
+
 ## Spock Rock Game - Confetti.js, Modules
 
 ## Quote Generator - Fetch, Async/Await, Quote API, CORS
