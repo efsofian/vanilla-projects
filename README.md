@@ -4,6 +4,10 @@
 
 ## fightMovie - Autocomplete from scratch, axios,
 
+## Maze - Canvas API, Matter JS
+
+## secretmessage - B64 encoding
+
 ## Spock Rock Game - Confetti.js, Modules
 
 ## Quote Generator - Fetch, Async/Await, Quote API, CORS
