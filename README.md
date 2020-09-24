@@ -10,6 +10,8 @@
 
 ## ls - Promise, fs library
 
+## Node Monitor - Child processing monitory
+
 ## Spock Rock Game - Confetti.js, Modules
 
 ## Quote Generator - Fetch, Async/Await, Quote API, CORS
