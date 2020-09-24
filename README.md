@@ -8,6 +8,8 @@
 
 ## secretmessage - B64 encoding
 
+## ls - Promise, fs library
+
 ## Spock Rock Game - Confetti.js, Modules
 
 ## Quote Generator - Fetch, Async/Await, Quote API, CORS
